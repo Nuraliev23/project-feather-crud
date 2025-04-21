@@ -1,0 +1,91 @@
+@media(max-width:425px){
+    .TitleHeader{
+        flex-direction: column;
+        padding-left: 0px;
+padding-top: 50px;
+    }
+    .leftHeader h1{
+        font-size: 30px;
+       }
+    .leftHeader{
+        width: 90%;
+    }
+    .rightHeader{
+        width: 90%;
+    }
+    .our_product{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .container{
+        width: 85%;
+        margin: auto;
+    }
+    .Keeping{
+        width: 90%;
+    }
+    .Garage{
+        flex-direction: column-reverse;
+        gap: 30px;
+    }
+    .leftGarage{
+        width: 90%;
+    }
+    .rightGarage{
+        width: 90%;
+    }
+    .furnitureBus{
+        flex-direction: column;
+        padding-left: 0px;
+gap: 40px;
+    }
+
+    .leftfurnitureBus{
+        width: 90%;
+    }
+    .rightfurnitureBus{
+        width: 90%;
+    }
+    .asseble {
+  flex-direction: column-reverse;
+  gap: 30px;
+      }
+      .rightasseble {
+        width: 90%;
+      }
+ 
+       .leftasseble {
+        width: 90%;
+      }
+      .Bestsellers{
+        flex-direction: column;
+      }
+      .Floydfur{
+        flex-direction:column;
+
+      }
+      .FloydfurLeft{
+        width: 90%;
+        margin: auto;
+    }
+    .FloydfurRight{
+          margin: auto;
+        width: 90%;
+        padding: 30px 0px;
+      }
+      .our_rates{
+        flex-direction: column;
+        gap: 20px;
+      }
+      .rates1,.rates2,.rates3{
+        width: 80%;
+      }
+      .apartments h1{
+    width: 90%;
+    }
+      .company{
+        width: 90%;
+        flex-direction: column;
+        gap: 20px;
+      }
+}

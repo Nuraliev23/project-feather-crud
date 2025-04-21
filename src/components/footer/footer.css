@@ -1,0 +1,40 @@
+.allfoot{
+text-align: end;
+}
+.foots{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+}
+.foot1{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: start;
+}
+.foot2{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: start;
+    border-bottom: 4px solid black;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.ic{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+@media(max-width:425px){
+    .foots{
+        flex-direction: column;
+        gap: 50px;
+        padding-left: 15px;
+    }
+}
