@@ -23,7 +23,7 @@ text-align: end;
 .icons{
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 10px;
 }
 .ic{
     border: 1px solid black;

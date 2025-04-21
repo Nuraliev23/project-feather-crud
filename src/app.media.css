@@ -83,6 +83,9 @@ gap: 40px;
       .apartments h1{
     width: 90%;
     }
+    .shopFurniture{
+        width: 90%;
+    }
       .company{
         width: 90%;
         flex-direction: column;
